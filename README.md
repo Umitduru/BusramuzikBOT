@@ -45,17 +45,17 @@ Heroku'ya dağıtmaya tıklamadan önce çatalı ve hemen altındaki yıldıza t
 #### Gruptaki herkes için
 
 - `/oynat` - istediğin şarkıyı çal
-- `/playlist` - Şimdi çalma listesini göster
-- `/current` - Şimdi çalan göster
+- `/sarkilistesi` - Şimdi çalma listesini göster
+- `/çalan` - Şimdi çalan göster
 - `/bul <song name>` - istediğiniz şarkıyı ara
 #### Yalnızca yöneticiler.
-- `/player` - müzik çalar ayarları panelini aç
-- `/pause` - şarkı çalmayı duraklat
+- `/panel` - müzik çalar ayarları panelini aç
+- `/durdur` - şarkı çalmayı duraklat
 - `/resume` - şarkı çalmaya devam et
 - `/skip` - sonraki şarkıyı çal
 - `/end` - müzik çalmayı durdur
-- `/userbotjoin` - asistanı sohbetinize davet edin
-- `/userbotleave` - asistanı sohbetinizden çıkarın
-- `/admincache` - Yönetici listesini yenile
+- `/asistan` - asistanı sohbetinize davet edin
+- `/cik` - asistanı sohbetinizden çıkarın
+- `/adminlist` - Yönetici listesini yenile
 
 
