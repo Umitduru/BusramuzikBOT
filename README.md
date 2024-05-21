@@ -14,18 +14,18 @@
 Heroku'ya dağıtmaya tıklamadan önce çatalı ve hemen altındaki yıldıza tıklayın.
 
 <p align="center">
-  <a href="https://github.com/ByMisakiMey/MisakiMusicBot/fork">
-    <img src="https://img.shields.io/github/forks/ByMisakiMey/MisakiMusicBot?label=Fork&style=social">
+  <a href="https://github.com/Umitduru/Busramuzikbot/fork">
+    <img src="https://img.shields.io/github/forks/Umitduru/Busramuzik?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/matesa/MisakiMusicBot">
-    <img src="https://img.shields.io/github/stars/ByMisakiMey/MisakiMusicBot?style=social">
+  <a href="https://github.com/Umitduru/Busramuzikbot">
+    <img src="https://img.shields.io/github/stars/Umitduru/Busramuzikbot?style=social">
   </a>
 </p>
 
 ### Deploy To Heroku</h4>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ByMisakiMey/MisakiMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Umitduru/BusramuzikBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 
 
@@ -44,17 +44,10 @@ Heroku'ya dağıtmaya tıklamadan önce çatalı ve hemen altındaki yıldıza t
 ### Komutlar 🛠
 #### Gruptaki herkes için
 
-- `/play <song name>` - istediğin şarkıyı çal
-- `/dplay <song name>` - deezer aracılığıyla istediğiniz şarkıyı çalın
-- `/splay <song name>` - jio saavn aracılığıyla istediğiniz şarkıyı çalın
+- `/oynat` - istediğin şarkıyı çal
 - `/playlist` - Şimdi çalma listesini göster
 - `/current` - Şimdi çalan göster
-- `/song <song name>` - istediğiniz şarkıları hızlı bir şekilde indirin
-- `/search <query>` - youtube'daki videoları ayrıntılarla arayın
-- `/deezer <song name>` - istediğiniz şarkıları deezer ile hızlıca indirin
-- `/saavn <song name>` - istediğiniz şarkıları saavn üzerinden hızlıca indirin
-- `/video <song name>` - istediğiniz videoları hızlı bir şekilde indirin
-
+- `/bul <song name>` - istediğiniz şarkıyı ara
 #### Yalnızca yöneticiler.
 - `/player` - müzik çalar ayarları panelini aç
 - `/pause` - şarkı çalmayı duraklat
